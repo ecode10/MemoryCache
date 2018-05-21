@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping.API", "Shipping.API\Shipping.API.csproj", "{9B283D8B-F2F3-47DD-944B-7B2695AF3190}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{CB7793F3-194F-4442-B340-88B327ED07F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shipping.API.Tests", "Shipping.API.Tests\Shipping.API.Tests.csproj", "{ACA886A5-1927-48E4-BD18-583208AB8512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B283D8B-F2F3-47DD-944B-7B2695AF3190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B283D8B-F2F3-47DD-944B-7B2695AF3190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B283D8B-F2F3-47DD-944B-7B2695AF3190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B283D8B-F2F3-47DD-944B-7B2695AF3190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA886A5-1927-48E4-BD18-583208AB8512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA886A5-1927-48E4-BD18-583208AB8512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA886A5-1927-48E4-BD18-583208AB8512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA886A5-1927-48E4-BD18-583208AB8512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ACA886A5-1927-48E4-BD18-583208AB8512} = {CB7793F3-194F-4442-B340-88B327ED07F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {888616CF-EE89-4832-8359-C5C1CADAEF7F}
+	EndGlobalSection
+EndGlobal

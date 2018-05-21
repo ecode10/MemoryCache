@@ -1,0 +1,9 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;MultipleActiveResultSets=true"
+  },
+  "AuthHeader": {
+    "TokenAPI": "292837292-2938729372-20osksdjs-29e0jsi282--02830ujjds;;",
+    "PWAPI": "p2029LALS02-=089DSK2J3P-0282OWDS;J2KI3940D-04820JS;;"
+  }
+}

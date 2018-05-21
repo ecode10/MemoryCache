@@ -1,0 +1,31 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:51768/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "TokenShippingAPI": "02930sksj10-02938SOSJ02jo-20929jalp",
+        "PWShippingAPI": "2080SOSJ2-029302-0320302-928SOSLS-02938",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "Shipping_Pickups.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:51769/"
+    }
+  }
+}
